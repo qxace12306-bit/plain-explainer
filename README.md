@@ -7,7 +7,7 @@ Claude Skill：把任何概念讲到零基础小白也能懂。
 ## 安装
 
 ```bash
-git clone https://github.com/你的用户名/plain-explainer.git ~/.claude/skills/plain-explainer
+git clone https://github.com/qxace12306-bit/plain-explainer.git ~/.claude/skills/plain-explainer
 ```
 
 或手动：新建 `~/.claude/skills/plain-explainer/` 目录，把本仓库的 `SKILL.md` 放进去。
